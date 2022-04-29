@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GitUsers-ListAPI/static/css/main.bd9a3682.css",
+    "main.js": "/GitUsers-ListAPI/static/js/main.8ad2435b.js",
+    "index.html": "/GitUsers-ListAPI/index.html",
+    "main.bd9a3682.css.map": "/GitUsers-ListAPI/static/css/main.bd9a3682.css.map",
+    "main.8ad2435b.js.map": "/GitUsers-ListAPI/static/js/main.8ad2435b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd9a3682.css",
+    "static/js/main.8ad2435b.js"
+  ]
+}
